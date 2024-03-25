@@ -43,8 +43,8 @@ Five modules, each with nine 60-minute sessions, totaling 3 credits.
 - 🖥️ Gain awareness of the functions of Database Management Software.
 - 📏 Understand normalization concepts and their implementation on tables.
 
-### Course Duration
-Five modules, each with nine 60-minute sessions, totaling 3 credits.
+### Notes
+Here https://excalidraw.com/#json=PWCeJi6eBZsHw0ZzzsGm4,_6dIo8hXpS100mhqPfYQSA
 
 ### Course Contents
 
