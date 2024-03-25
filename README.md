@@ -75,8 +75,8 @@ Five modules, each with nine 60-minute sessions, totaling 3 credits.
 - 🧠 Comprehend the Concepts related to Memories.
 - 💻 Gain insights into Logic Gates, Flip Flops, and System on Chip (SoC).
 
-### Course Duration
-Five modules, each with nine 60-minute sessions, totaling 3 credits.
+### Notes
+Here - https://excalidraw.com/#json=pmKcdI4huiHytaNqeHnLE,PoDzzwIg5I3_aNvAdBkMXQ
 
 ### Course Contents
 
