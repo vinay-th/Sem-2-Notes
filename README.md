@@ -66,3 +66,45 @@ Five modules, each with nine 60-minute sessions, totaling 3 credits.
 
 **Module V: Open Source Database Management System**
 - Various Open Source DBMS (SQLite, Cassandra, MariaDB, MongoDB, MySQL)
+
+  ## Course Code: 221601204 - FUNDAMENTALS OF COMPUTER ORGANIZATION
+
+### Course Objectives
+- 🚌 Understand Bus Architecture, Basic operational units of a Computer, and Data Representations.
+- 💡 Learn about various types of instructions including data transfer, control transfer, arithmetic, logic, and I/O instructions.
+- 🧠 Comprehend the Concepts related to Memories.
+- 💻 Gain insights into Logic Gates, Flip Flops, and System on Chip (SoC).
+
+### Course Duration
+Five modules, each with nine 60-minute sessions, totaling 3 credits.
+
+### Course Contents
+
+**Module I: Operational Units of a Computer and Data Representations**
+- Introduction to Hardware Units and Von Neumann Architecture
+- Evolution and Classification of Buses in Computers
+- Data Representations including Complements and Binary Arithmetic
+- Floating Point Numbers and IEEE Representation
+
+**Module II: Central Processing Unit and Introduction to Digital Logic Circuits**
+- Central Processing Unit and Registers
+- Register Transfer Language and Micro Operations
+- Basic Concepts of Instructions and Assembly Language Overview
+- Introduction to Digital Logic Circuits including Gates, Flip-Flops, and Encoder/Decoder
+
+**Module III: Memory Organization**
+- Byte Addressability and Memory Access time
+- Semiconductor Memories and Cache Memory
+- Virtual Memory and Memory Interleaving
+- Read Only Memory (ROM) and Flash Memory
+
+**Module IV: Memory Management**
+- Memory Hierarchies and Cache Memory Principles
+- Memory Mapping and Cache Replacement
+- Cache Coherence and Numericals on Memory Mapping
+
+**Module V: I/O Organization and System On a Chip (SoC)**
+- Interfacing I/O Devices and Interrupts
+- Direct Memory Access (DMA) and Modes of DMA transfer
+- Introduction to System On a Chip (SoC) and its Components
+- Advantages, Disadvantages, and Applications of SoC
