@@ -10,8 +10,8 @@ This repository is a collection of notes and resources for Semester 2 of the Bsc
 - 💻 Develop complex programming skills.
 - 🛠️ Apply C concepts in problem-solving.
 
-### Duration
-Five modules, each with nine 60-minute sessions, totaling 3 credits.
+### Notes
+Here https://excalidraw.com/#json=BJjY-sQuhQK1pMgvM-3dp,ugY0dK3C-Yg3IhyGkrCk3g
 
 ### Contents
 
