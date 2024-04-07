@@ -11,7 +11,7 @@ This repository is a collection of notes and resources for Semester 2 of the Bsc
 - 🛠️ Apply C concepts in problem-solving.
 
 ### Notes
-Here https://excalidraw.com/#json=BJjY-sQuhQK1pMgvM-3dp,ugY0dK3C-Yg3IhyGkrCk3g
+Here https://excalidraw.com/#json=RPMxBQxPoWGxV6hLmwAFz,ohquu4zm0t-pfsLLURdACA
 
 ### Contents
 
