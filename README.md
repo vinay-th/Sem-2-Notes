@@ -108,3 +108,38 @@ Here - https://excalidraw.com/#json=pmKcdI4huiHytaNqeHnLE,PoDzzwIg5I3_aNvAdBkMXQ
 - Direct Memory Access (DMA) and Modes of DMA transfer
 - Introduction to System On a Chip (SoC) and its Components
 - Advantages, Disadvantages, and Applications of SoC
+- 
+## Course Code: 221601202 - MATHEMATICS FOR COMPUTER SCIENCE – II (Core Course)
+
+### Objectives:
+- 🧮 Understand fundamental structures like set theory, relations, lattices, and Boolean algebra.
+- 🤔 Develop logical thinking through mathematical logic concepts.
+
+
+### Notes:
+- Here https://excalidraw.com/#json=xvv84_bvVW3k36Z4E6EXb,sNTxdyMcg8VDN1GeiIgF9Q
+
+
+### Contents:
+
+**Module I: Mathematical Logic**
+- 📐 Propositions, Logical operators
+- 📊 Truth table, Tautologies
+- 🧠 Rules of inference
+
+**Module II: Theory of Sets**
+- 📚 Definitions, Set operations
+- 🎯 Power set, Applications
+
+**Module III: Relation and Ordering**
+- ↔️ Types of Relations
+- 🛑 Hasses Diagram, Poset elements
+
+**Module IV: Lattice and Boolean Algebra**
+- 🔷 Types, Properties of Lattice
+- 🔑 Laws of Boolean Algebra
+
+**Module V: Graph Theory**
+- 📊 Basic Terminology
+- 📈 Types of Graphs, Graph Operations
+
